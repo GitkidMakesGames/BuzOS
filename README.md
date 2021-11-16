@@ -6,3 +6,5 @@ NEEDED:
 Icon artist
 2 programers
 Co-producer
+
+The idea of this is: we make an art app wallpaper changing app and somesort of game.
